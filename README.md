@@ -25,7 +25,7 @@ pytest
 ### 📝 Generate an HTML report:
 
 ```bash
-pytest --html=report-test.html
+pytest --html report-test.html
 ```
 
 > This will create a file named `report-test.html` in your working directory. You can open it in any web browser to see a formatted test report.
