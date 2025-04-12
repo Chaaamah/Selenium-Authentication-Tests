@@ -59,15 +59,3 @@ selenium-authentication-tests/
 ├── requirements.txt          # (Optional) dependencies list
 └── README.md                 # This file
 ```
-
----
-
-## 👩‍💻 Author
-
-Built with ❤️ by [Your Name Here]
-
----
-
-## 📜 License
-
-MIT — free to use, modify, and share. Just remember to credit and maybe buy a coffee ☕
