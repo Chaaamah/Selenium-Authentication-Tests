@@ -32,4 +32,4 @@ def test_authentication(browser):
     password.submit()
 
     # Assert redirect is successful
-    assert browser.current_url == "https://www.saucedemo.com/inventory.html", "Login failed or incorrect redirect"
+    assert browser.current_url == "https://www.saucedemo.com/inventory.html", "Login failed or incorrect redirect"   
